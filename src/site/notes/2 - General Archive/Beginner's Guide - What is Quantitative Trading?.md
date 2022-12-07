@@ -3,16 +3,16 @@
 ---
 
 
-### What is Quantitative Trading?
-#### What it is vs What it's Not
-##### What it's not:
+# What is Quantitative Trading?
+### What it is vs What it's Not
+##### What it's Not
 - Magically knowing where the market is going to go.
 - Magically finding patterns in the market.
 - Magically improving profits while reducing risk.
 - Magically generate the trading signal for you.
 - Doing the market analysis for you
 
-##### What it is:
+##### What it is
 - Using past data (and more) in the hopes that the same patterns that happen within the past data will happen again in the future.
 	- Note: We don't know where the market is going to go, we just hope the same patterns happen again. Just need to find those patterns.
 - We have to construct our own hypothesis about patterns, and then falsify if those hypothesis are incorrect by using quant methods. (i.e. statistics, mostly)
@@ -22,22 +22,19 @@
 	- Note: a lot of quants are iffy about using ML because overfitting and black box nature (overfitting will be your other arch nemesis).
 - Since you have to make your own hypothesis, you have to know how to analyze markets in the first place.
 
-##### Conclusion
+##### Takeaway
 **Main takeaway:** You can't use Quantitative Trading by itself to make money. You need to understand how to analyze markets first, then use Quantitative Trading to assist you in finding statistical-provably good strategies.
 
 **Main Goal**: To find a trading strategy that you think is good enough to trade with.
 
-Note: This writing focuses on non-derivative trading. 
-Derivative trading are more involved and requires advanced math methods (stochastic calculus, stochastic process, etc.). (Derivatives are also not halal, I dont think.)
-
-#### What Makes a Good Trading Strategy
+### What Makes a Good Trading Strategy
 ##### Wait, What is a Trading Strategy?
 Trading Strategy: Some method that translates some data to a set of buy and sell choices in the market.
 
 e.g. you might use bollinger bands on price data to set when you buy and when you sell. Or you might use stock fundamentals and stop losses to know when to buy and sell.
 
 ##### Criteria
-Criteria are:
+The criteria for a good trading strategy are:
 - Has been backtested on a large enough distirbution to make the metrics statistically significant (e.g. on long enough time, or tested on multiple financial instruments)
 - Achieves good metrics
 - Avoiding the biases within testing and development. (most specifically backtesting, data prep, and optimization)
@@ -98,7 +95,7 @@ Look-Ahead Bias
 Representativeness Bias
 - Tendency to interfere and stop the algorithm because psychological tendencies.
 
-#### Is it For You?
+### Is it For You?
 Do you want to verify that your strategy performs well statistically?
 
 Do you want to know whether there are any correlations between an instrument's price and some other data?
@@ -113,5 +110,5 @@ If you answer yes to the questions, then this is for you!
 Basic Resources to Start With
 - Book: Algorithmic Trading by Ernest P. Chan
 - Book: Systematic Trading by Robert E. Carver
-- https://www.quantstart.com/articles/Beginners-Guide-to-Quantitative-Trading/
+- [Beginners Guide to Quantitative Trading](https://www.quantstart.com/articles/Beginners-Guide-to-Quantitative-Trading/)
 
