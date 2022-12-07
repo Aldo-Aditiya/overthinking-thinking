@@ -12,7 +12,7 @@ That is not the only thing I like though. I also write about psychology, economy
 
 Right now this web is pretty barebones. I'll add more from time to time.
 
-Here's my [resume](https://drive.google.com/file/d/1CdubeNdTIjO71Y0BD3ptBRgApyEQD6_Q/view?usp=share_link), and my [github](https://github.com/Aldo-Aditiya/).
+Here's my [resume](https://drive.google.com/file/d/1zBxZFSaWZ8DIdKtqdHrzLR6DY4PildvG/view?usp=share_link), and my [github](https://github.com/Aldo-Aditiya/).
 You can get in touch with me [here](https://www.linkedin.com/in/aldo-aditiya/).
 
 ---
