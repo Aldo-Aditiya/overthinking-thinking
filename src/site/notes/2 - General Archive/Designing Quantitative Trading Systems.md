@@ -3,7 +3,7 @@
 ---
 
 
-## Overview of System Design
+## Designing Quantitative Trading Systems
 A trading system is a system that helps you decide **when** to trade, how big to set your **bet sizes**, and **allocation** division to different trades (e.g. on different instruments).
 
 To determine each of those variables, we need to consider three things:
