@@ -18,7 +18,7 @@ You can get in touch with me [here](https://www.linkedin.com/in/aldo-aditiya/).
 ---
 ### Writings
 
-[[0 - Processing/Quantitative Trading Series\|Quantitative Trading Series]]
+[[2 - General Archive/Quantitative Trading Series\|Quantitative Trading Series]]
 
 ---
 Website is made with [obsidian](https://obsidian.md/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden).
