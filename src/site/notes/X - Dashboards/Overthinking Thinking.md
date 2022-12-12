@@ -17,7 +17,7 @@ You can get in touch with me [here](https://www.linkedin.com/in/aldo-aditiya/).
 
 ---
 
-#### [Memento Mori]([[2 - General Archive/Reflecting on the Death of My Father\|Reflecting on the Death of My Father]])
+#### [Memento Mori](Reflecting%20on%20the%20Death%20of%20My%20Father.md)
 
 ---
 
@@ -27,4 +27,4 @@ You can get in touch with me [here](https://www.linkedin.com/in/aldo-aditiya/).
 [[2 - General Archive/Reflecting on the Death of My Father\|Reflecting on the Death of My Father]]
 
 ---
-Website is made with [obsidian](https://obsidian.md/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden).
+This website was made with [obsidian](https://obsidian.md/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden).
