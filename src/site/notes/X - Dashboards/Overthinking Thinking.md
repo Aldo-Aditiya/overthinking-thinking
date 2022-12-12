@@ -16,9 +16,15 @@ Here's my [resume](https://drive.google.com/file/d/1zBxZFSaWZ8DIdKtqdHrzLR6DY4Pi
 You can get in touch with me [here](https://www.linkedin.com/in/aldo-aditiya/).
 
 ---
+
+#### [Memento Mori]([[2 - General Archive/Reflecting on the Death of My Father\|Reflecting on the Death of My Father]])
+
+---
+
 ### Writings
 
 [[2 - General Archive/Quantitative Trading Series\|Quantitative Trading Series]]
+[[2 - General Archive/Reflecting on the Death of My Father\|Reflecting on the Death of My Father]]
 
 ---
 Website is made with [obsidian](https://obsidian.md/) and [obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden).
