@@ -17,7 +17,7 @@ You can get in touch with me [here](https://www.linkedin.com/in/aldo-aditiya/).
 
 ---
 
-#### [Memento Mori](Reflecting%20on%20the%20Death%20of%20My%20Father.md)
+#### [Memento Mori](https://overthinking.netlify.app/2-general-archive/reflecting-on-the-death-of-my-father/)
 
 ---
 
