@@ -6,7 +6,9 @@
 2022-12-08
 
 # Quantitative Trading Series
-I've dabbled a bit in quantitative trading, and here's some beginner's guide to help people start.
+I've dabbled a bit in quantitative trading. It's quite hard finding an encompassing beginner's guide, so here's my attempt at one. 
+
+Still a work in progress though ✌️.
 
 - [[2 - General Archive/What is Quantitative Trading?\|What is Quantitative Trading?]]
 - [[2 - General Archive/Designing Quantitative Trading Systems\|Designing Quantitative Trading Systems]]
